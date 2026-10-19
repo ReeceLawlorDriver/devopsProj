@@ -1,2 +1,1 @@
-echo 2
-./count3.sh
+echo "2(TWO)"
